@@ -148,3 +148,30 @@ li a:hover:not(.active), p a:hover:not(.active){
   width: 470px;
   margin: 80px 50px;
 }
+
+
+#txt-s3{
+  float: left;
+  width: 48%;
+  height: 643px;
+  background-color: pink;
+}
+
+#v1-s3{
+  float: right;
+  width: 52%;
+  height: 643px;
+  background-color: red;
+}
+
+/* v1#-s2 img{
+  width: 470px;
+  margin: 80px 50px;
+} */
+
+
+
+/* v1#-s2 img{
+  width: 470px;
+  margin: 80px 50px;
+} */
