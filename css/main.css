@@ -179,6 +179,7 @@ p{
 .text1{
   line-height: 20px;
   margin: 0 10px;
+  margin-bottom: 60px;
 }
 
 .tit{
@@ -186,16 +187,16 @@ p{
   font-size: 30px;
   font-weight: bold;
   line-height: 70px;
-  margin: 0 10px;
+  margin-left: 10px;
 }
 
 .tit2{
   color: white;
   font-size: 30px;
   font-weight: bold;
+  line-height: 30px;
   margin: 30px 10px;
   width: 350px;
-  line-height: 30px;
 }
 
 .t-1 {
