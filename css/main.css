@@ -1,24 +1,23 @@
 body{
-  font-family: 'Montserrat';
-  margin: 0;
-  padding: 0;
   background-image: url('../assets/images/hero.gif');
   background-repeat: no-repeat;
   background-size: 100%;
-
+  font-family: 'Montserrat';
+  margin: 0;
+  padding: 0;
 }
 
 header{
-  width: 100%;
   height: 118px;
+  width: 100%;
 }
 
 footer{
-  width: 100%;
-  height: 542px;
   background-color: #333447;
   color: white;
+  height: 542px;
   margin-top: -20px;
+  width: 100%;
 }
 
 #img{
@@ -28,8 +27,8 @@ footer{
 }
 
 #img img{
-  width: 70px;
   margin: 34px 83px;
+  width: 70px;
 }
 
 #menu{
@@ -49,116 +48,106 @@ li{
 }
 
 nav a{
+  color: white;
   display: block;
   font-size: 18px;
   font-weight:500;
-  padding: 20px;
-  color: white;
-  text-decoration: none;
   margin-top: 27px;
+  padding: 20px;
+  text-decoration: none;
 }
 
 p a{
-  float: left;
-  width: 60px;
-  padding: 13px 19px;
+  border-radius: 10px;
   border: 1px solid white;
   color: white;
-  text-decoration: none;
+  float: left;
   margin-top: 33px;
   margin-left:16px;
-  border-radius: 10px;
-
+  padding: 13px 19px;
+  text-decoration: none;
+  width: 60px;
 }
 
 #contenedor-seccion-uno{
-  width: 100%;
   height: 641px;
+  width: 100%;
 }
 
 #cuadro-blanco{
-  width: 563px;
-  height: 480px;
-  float: right;
   background-color: white;
+  float: right;
+  height: 480px;
+  width: 563px;
 }
 
 #contenedor-seccion-dos{
+  background: linear-gradient(#76278F, #2B1E66);
+  height: 643px;
   margin-top: -20px;
   width: 100%;
-  height: 643px;
-  background: linear-gradient(#76278F, #2B1E66);
 }
 
 #txt-s2{
   float: left;
-  width: 48%;
   height: 643px;
+  width: 48%;
 }
 
 #img-s2{
   float: right;
-  width: 52%;
   height: 643px;
+  width: 52%;
 }
 
 #img-s2 img{
-  width: 470px;
   margin: 80px 50px;
+  width: 470px;
 }
 
 #contenedor-seccion-tres{
-  width: 100%;
   height: 506px;
-  /* background-color: yellow; */
+  width: 100%;
 }
 
 #texto-v1{
   float: left;
-  /* background-color: purple; */
-  width: 40%;
   height: 506px;
+  width: 40%;
 }
 
 #caja-video1{
   float: right;
-  width: 60%;
   height: 506px;
-  /* background-color: black; */
+  width: 60%;
 }
 
 #contenedor-seccion-cuatro{
-  /* background-color: orange; */
-  width: 100%;
   height: 506px;
+  width: 100%;
 }
 
 #caja-video2{
   float: left;
-  width: 60%;
   height: 506px;
-  /* background-color: navajowhite; */
+  width: 60%;
 }
 
 #texto-v2{
   float: right;
-  width: 40%;
   height: 506px;
-  /* background-color: mediumturquoise; */
+  width: 40%;
 }
 
 #cinco{
-
-  width: 100%;
   height: 506px;
-  /* background-color: green; */
+  width: 100%;
 }
 
 #texto-v3{
   float: left;
-  width: 40%;
   height: 506px;
-  /* background-color: oldlace; */
+  width: 40%;
 }
 
 #columnas-pie{
@@ -167,18 +156,17 @@ p a{
 
 #caja-video3{
   float: right;
-  width: 60%;
   height: 506px;
+  width: 60%;
 }
 
 #v1, #v2, #v3{
-  width: 809px;
   height: 506px;
+  width: 809px;
 }
 
 p{
     margin: 0;
-
 }
 
 
@@ -189,88 +177,65 @@ p{
 }
 
 #contenido-texto-uno{
-
   color: white;
   height: 500px;
-  width: 500px;
   margin: 95px 130px;
-
+  width: 500px;
 }
 
 .text1{
-  margin: 0;
   line-height: 20px;
-}
-
-.tit{
-  margin-top: 30px;
-  color: white;
-  font-size: 30px;
-  font-weight: bold;
-  line-height: 70px;
   margin: 0;
-  line-height: 60px;
-  margin-top: 10px;
-}
-
-.tit2{
-  margin-top: -60;
-
-  margin-top: 30px;
-  font-size: 30px;
-  line-height: 18px;
-  font-weight: bold;
-  margin-bottom: 10px;
 }
 
 .t-1 {
-  margin-top: 20px;
-  margin-left: 60px;
   color: #000000;
   font-weight: 700;
   font-size: 13px;
   letter-spacing: -1px;
+  margin-top: 20px;
+  margin-left: 60px;
 }
 
 .t-2{
-  margin-left: 60px;
   color: #000000;
   font-size: 29px;
   font-weight: 700;
-
+  margin-left: 60px;
 }
 
 .t-3{
-  margin-top: 20px;
-  margin-left: 60px;
   color: #000000;
   font-size: 17px;
-  width: 68%;
-  line-height: 25px;
   font-weight: 500;
+  margin-top: 20px;
+  margin-left: 60px;
+  line-height: 25px;
+  width: 68%;
 }
 
 .c-1{
-  margin-top: 30px;
-  float: left;
-  margin-left: 120px;
-  line-height: 50px;
   color: white;
+  float: left;
+  margin-top: 30px;
+  line-height: 50px;
+  margin-left: 120px;
 }
+
 .c-2{
   color: white;
-  margin-top: 30px;
   float: left;
-  margin-left: 160px;
   line-height: 50px;
+  margin-left: 160px;
+  margin-top: 30px;
 }
 
 .c-3{
   color: white;
-  margin-top: 30px;
   float: left;
-  margin-left: 160px;
   line-height: 50px;
+  margin-left: 160px;
+  margin-top: 30px;
 }
 
 .strong{
@@ -280,10 +245,10 @@ p{
 
 .logos{
   float: left;
-  width: 130px;
+  line-height: 75px;
   margin-left: 210px;
   margin-top: 60px;
-  line-height: 75px;
+  width: 130px;
 }
 
 .apple{
@@ -300,41 +265,41 @@ p{
 
 .redes{
   clear: both;
-  width: 100%;
   text-align: center;
+  width: 100%;
 }
 
 i{
-  margin-top: 60px;
   margin-left: 60px;
+  margin-top: 60px;
 }
 
 .face, .inst, .twit{
-  color: white;
-  border: 1px solid white;
-  width: 16px;
-  height: 16px;
   border-radius: 50%;
+  border: 1px solid white;
+  color: white;
+  height: 16px;
   padding: 8px;
+  width: 16px;
 }
 
 hr {
-  width: 60%;
+  margin-left: 320px;
   margin-top: 25px;
+  width: 60%;
  }
 
 .pie{
-  margin-top: 40px;
-  margin-left: 60px;
-  text-align: center;
   font-size: 17px;
+  margin-left: 60px;
+  margin-top: 40px;
+  text-align: center;
 }
 
-li a:hover:not(.active), p a:hover:not(.active){
+ul> li >a:hover:not(.active), nav>p>a:hover:not(.active){
   color: #FF00BF;
   text-decoration: underline;
 }
-
 
 .up:hover:not(.active), .c-1 p:hover:not(.active), .c-2 p:hover:not(.active), .c-3 p:hover:not(.active){
   color: #FF00BF;
@@ -342,26 +307,26 @@ li a:hover:not(.active), p a:hover:not(.active){
 }
 
 .h1{
-  margin: 55px 55px;
   color: #352384;
   font-size: 40px;
-  width: 50%;
   font-weight: 600;
+  margin: 55px 55px;
+  width: 50%;
 }
 
 .sing{
-  margin-left: 55px;
-  font-weight: bold;
   color: #352384;
   font-size: 14px;
+  font-weight: bold;
+  margin-left: 55px;
   transform:scaleY(1.1);
 }
 
 input {
-  margin: 20px 0px 0px 55px;
-  line-height: 20px;
-  font-size: 17px;
   border: none;
+  font-size: 17px;
+  line-height: 20px;
+  margin: 20px 0px 0px 55px;
   outline: none;
 }
 
@@ -371,42 +336,40 @@ input {
 }
 
 #form hr {
-  width: 83%;
-  margin-top: 10px;
   margin-left: 55px;
-  margin-bottom: 50px;
+  width: 83%;
 }
 
 .bottom{
-  font-size: 17px;
-  color: white;
   background: #FF00B9;
-  padding: 18px;
-  text-align: center;
   border-radius: 10px;
-  width: 27%;
+  color: white;
+  float: left;
+  font-size: 17px;
+  font-weight: 600;
   margin-left: 55px;
   margin-top: -15px;
-  float: left;
+  padding: 18px;
+  text-align: center;
+  width: 27%;
 }
 
 .up{
-  width: 20%;
+  color: #450965;
+  font-weight: 500;
   font-size: 17px;
   font-family: 'Montserrat', sans-serif;
-  color: #450965;
   margin-left: 40px;
-  font-weight: 500;
   text-decoration: none;
+  width: 20%;
 }
 
 .learn{
-  /* clear: both; */
+  color: #450965;
   float: left;
+  font-size: 10px;
+  line-height: 30px;
   margin-top: 30px;
   margin-left: 60px;
-  font-size: 10px;
   width: 55%;
-  line-height: 30px;
-  color: #450965;
 }
