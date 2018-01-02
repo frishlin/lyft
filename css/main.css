@@ -169,13 +169,6 @@ p{
     margin: 0;
 }
 
-
-.text{
-  color: white;
-  font-size: 18px;
-  margin: 0;
-}
-
 #contenido-texto-uno{
   color: white;
   height: 500px;
@@ -185,7 +178,24 @@ p{
 
 .text1{
   line-height: 20px;
-  margin: 0;
+  margin: 0 10px;
+}
+
+.tit{
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 70px;
+  margin: 0 10px;
+}
+
+.tit2{
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 30px 10px;
+  width: 350px;
+  line-height: 30px;
 }
 
 .t-1 {
@@ -338,6 +348,7 @@ input {
 #form hr {
   margin-left: 55px;
   width: 83%;
+  margin-bottom: 40px;
 }
 
 .bottom{
